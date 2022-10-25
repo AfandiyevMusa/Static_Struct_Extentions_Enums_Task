@@ -20,15 +20,17 @@ namespace Service.Services.Implementations
             }else if(email == "test@code.edu.az" && password == "test12345" && role != "SuperAdmin")
             {
                 Console.WriteLine("The Role is false");
+            }else if(email != "test@code.edu.az" && password != "test12345" && role != "SuperAdmin")
+            {
+                Console.WriteLine("Fix all your problem");
             }else if(email == "test@code.edu.az" && password == "test12345" && role == "SuperAdmin")
             {
                 Console.WriteLine("Allowed");
             }
             else
             {
-                Console.WriteLine("Fix your problem");
+                Console.WriteLine("Not exist");
             }
-
         }
     }
 }

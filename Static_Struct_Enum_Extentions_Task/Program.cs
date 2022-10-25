@@ -1,11 +1,7 @@
 ﻿using System;
 using Service.Services.Implementations;
 using Static_Struct_Enum_Extentions_Task.Helpers;
-using Service.Services.Implementations;
-
-using static System.Net.Mime.MediaTypeNames;
 using static Service.Services.Implementations.Account;
-using System.Diagnostics;
 
 namespace Static_Struct_Enum_Extentions_Task
 {
