@@ -1,7 +1,7 @@
 ﻿using System;
 using Service.Services.Implementations;
 using Static_Struct_Enum_Extentions_Task.Helpers;
-using static Service.Services.Implementations.Account;
+using Static_Struct_Enum_Extentions_Task.Helpers.Enums;
 
 namespace Static_Struct_Enum_Extentions_Task
 {
@@ -20,9 +20,9 @@ namespace Static_Struct_Enum_Extentions_Task
             //Console.WriteLine(num.calculateFactorial());
         }
 
-        private static string CheckRoles(int process)
+        private static string CheckRoles(int roleID)
         {
-            switch (process)
+            switch (roleID)
             {
                 case (int)Roles.SuperAdmin:
                     return "SuperAdmin";
@@ -33,8 +33,10 @@ namespace Static_Struct_Enum_Extentions_Task
                 case (int)Roles.Member:
                     return "Member";
                     break;
+                default:
+                    return "Not exist";
+                    break;
             }
-            return "Not exist";
         }
     }
 }

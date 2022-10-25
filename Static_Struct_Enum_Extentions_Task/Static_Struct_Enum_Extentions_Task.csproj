@@ -7,9 +7,11 @@
 
   <ItemGroup>
     <None Remove="Helpers\" />
+    <None Remove="Helpers\Enums\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Enums\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Service\Service.csproj" />
