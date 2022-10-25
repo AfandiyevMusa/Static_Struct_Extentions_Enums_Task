@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5E10C224-87C9-47BA-89A1-85155AF06A90}|Default">
+  <MonoDevelop.Ide.ItemProperties.Static__Struct__Enum__Extentions__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Static_Struct_Enum_Extentions_Task/Program.cs">
+    <Files>
+      <File FileName="Static_Struct_Enum_Extentions_Task/Program.cs" Line="41" Column="30" />
+      <File FileName="Service/Services/Implementations/Account.cs" Line="13" Column="10" />
+      <File FileName="Service/Services/Interfaces/IAccount.cs" Line="6" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Static_Struct_Enum_Extentions_Task" expanded="True">
+            <Node name="Service" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Static_Struct_Enum_Extentions_Task" expanded="True">
+              <Node name="Helpers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

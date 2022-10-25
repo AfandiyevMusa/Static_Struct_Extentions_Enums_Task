@@ -1,0 +1,10 @@
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/bin/Debug/netcoreapp3.1/Service.deps.json
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/bin/Debug/netcoreapp3.1/Service.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/bin/Debug/netcoreapp3.1/Service.pdb
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.dll
+/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Static_Struct_Enum_Extentions_Task/Service/obj/Debug/netcoreapp3.1/Service.pdb
