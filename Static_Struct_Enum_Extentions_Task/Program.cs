@@ -11,7 +11,7 @@ namespace Static_Struct_Enum_Extentions_Task
         {
             //Task_1
             Account account = new Account();
-            account.Login("test@code.edu.az", "test12345", CheckRoles(2));
+            account.Login("test@code.edu.az", "test12345", CheckRoles(1));
 
 
 
